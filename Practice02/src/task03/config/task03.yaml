@@ -1,4 +1,4 @@
 /**:
   ros__parameters:
-    service_name: "/trigger_node_service"
+    service_name: "/service"
     default_string: "No service available"
