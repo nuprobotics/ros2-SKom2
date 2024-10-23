@@ -22,7 +22,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-		    "trigger_node_service = task03.trigger_node_service:main"
+		    "service = task03.service:main"
         ],
     },
 )
