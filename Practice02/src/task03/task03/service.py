@@ -30,7 +30,7 @@ def main():
 	rclpy.init()
 	node = ServiceNode()
 	rclpy.spin(node)
-	rclpy.shutdown ()
+	rclpy.shutdown()
 
 if __name__ == "__main__":
 	main()
